@@ -1,0 +1,21 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"C Improved",
+		"C++ Starting Kit",
+		"Clang Format",
+		"ClangAutoComplete",
+		"CTags",
+		"DocBlockr",
+		"GitGutter",
+		"Package Control",
+		"SublimeLinter",
+		"SublimeLinter-contrib-clang",
+		"Theme - Spacegray"
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"color_scheme": "Packages/User/SublimeLinter/base16-eighties.dark (SL).tmTheme",
+	"file_exclude_patterns":
+	[
+		".tags",
+		".tags_sorted_by_file",
+		".gemtags"
+	],
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"spacegray_fileicons": true,
+	"theme": "Spacegray Eighties.sublime-theme"
+}
